@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NexusCleaner")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Temp Cleaner")]
+[assembly: AssemblyDescription("This C# program is designed to clean temporary files from the system and optionally empty the Recycle Bin. It performs the following tasks:")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NexusCleaner")]
+[assembly: AssemblyProduct("Temp Cleaner")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
