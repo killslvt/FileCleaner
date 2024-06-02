@@ -16,4 +16,4 @@ Empty Recycle Bin (Optional):
 - Asks the user if they want to empty the Recycle Bin after cleaning the directories.
 - Empties the Recycle Bin if the user confirms.
 
-The program uses the 'SHEmptyRecycleBin' function from the Windows API for Recycle Bin operations and includes error handling with console output to indicate the status of each operation.
+The program uses the `SHEmptyRecycleBin` function from the Windows API for Recycle Bin operations and includes error handling with console output to indicate the status of each operation.
